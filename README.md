@@ -1,0 +1,2 @@
+# -opensocial-gadgets
+test repositery 
